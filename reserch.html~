@@ -132,6 +132,7 @@
                     <section class="about-me line col-md-12 padding_30 padbot_45">
                     <div class="section-title"><h2>Runtime overhead within heterogeneous platforms</h2></div>
                     <p class="top_30"> The main objectif in hard real-time system is the respect of the timing constraints, and the key 					element to guarantee that is the precise knowledge of tasks characteristics.
+					add details ...
 
                         <br>
                         <br> </p>
