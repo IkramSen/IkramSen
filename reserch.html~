@@ -112,7 +112,7 @@
                             <a class="home-btn active" href="index.html#home"><i class="fa fa-home" aria-hidden="true"></i></a>
                         </li>
 			<li class="tab"><a href="reserch.html">RESEARCH</a></li>
-                        <li class="tab"><a href="educat.html">EDUCATION & EXPERIENCE</a></li>
+                        <li class="tab"><a href="educat.html">EDUCATION & EXPERIENCE</a></li>  
                         <!--li class="tab"><a href="skyl.html">MY SKILLS</a></li-->
                         <li class="tab"><a href="contact.html">CONTACT</a></li>
                         <!--li class="tab"><a href="http://tavonline.net/html/mat/default/index.html#contact"></a></li-->
@@ -131,11 +131,22 @@
                 <div class="row">
                     <section class="about-me line col-md-12 padding_30 padbot_45">
                     <div class="section-title"><h2>Runtime overhead within heterogeneous platforms</h2></div>
-                    <p class="top_30"> The main objectif in hard real-time system is the respect of the timing constraints, and the key 					element to guarantee that is the precise knowledge of tasks characteristics.
-					add details ...
+                    <p class="top_30" style="text-align:justify;"> 
+				     The main objectif in hard real-time system is the respect of the timing constraints, and the key 					     element to guarantee that is the precise knowledge of tasks characteristics.
+
+					<br>
+                                     <B> Preemption </B> is a key factor in real-time scheduling, since it allows the operating system to 					      immediately allocate the processor to incoming tasks requiring urgent service, however, the system has 					      to pay a <B> cost </B> at each preemption. In most of the literature on real-time scheduling, the cost 					      of preempting a task is considered to be negligible when doing the schedulability analysis. Indeed, 					      this is the case in classical general purpose processors. However, preemption can be a very costly 					      operation on some computing unit such as GPUs.
 
                         <br>
-                        <br> </p>
+			The question whether enabling or disabling preemption during task execution has been investigated by many authors
+			under several points of view. A general disadvantage of the <B>non-preemptive </B> discipline is that
+			it introduces additional blocking time in higher priority tasks, so reducing schedulability, in the opposite side, at
+			least four different types of costs need to be taken into account at each preemption when considering  <B>fully    				preemptive  </B> scheduling: cache-related cost, bus-related cost, pipeline cost and scheduling cost.
+			<br>
+			 <B> Limited preemption models  </B> have been proposed as an intermediate solution, to overcome the limitations of 				fully preemptive and non preemptive systems.
+                        <br>
+			I focus on how to use the diffrent models of  <B> Limited preemption models  </B> to reduce <B> the preemption cost  			        </B> while guaranteeing the respect of all timing constraints, on heterogeneous platforms.
+		 </p>
                 </section>
                 </div>
                 <!-- My Services Section -->
