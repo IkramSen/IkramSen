@@ -130,7 +130,7 @@
                 <!-- Text Section -->
                 <div class="row">
                     <section class="about-me line col-md-12 padding_30 padbot_45">
-                    <div class="section-title"><h2>Runtime overhead within heterogeneous platforms</h2></div>
+                    <div class="section-title"><h2>Runtime overhead within multiprocessor platforms</h2></div>
                     <p class="top_30" style="text-align:justify;"> 
 				     The main objectif in hard real-time system is the respect of the timing constraints, and the key 					     element to guarantee that is the precise knowledge of tasks characteristics.
 
@@ -145,7 +145,7 @@
 			<br>
 			 <B> Limited preemption models  </B> have been proposed as an intermediate solution, to overcome the limitations of 				fully preemptive and non preemptive systems.
                         <br>
-			I focus on how to use the diffrent models of  <B> Limited preemption models  </B> to reduce <B> the preemption cost  			        </B> while guaranteeing the respect of all timing constraints, on heterogeneous platforms.
+			I focus on how to use the diffrent models of  <B> Limited preemption models  </B> to reduce <B> the preemption cost  			        </B> while guaranteeing the respect of all timing constraints, on multiprocessor platforms.  
 		 </p>
                 </section>
                 </div>
