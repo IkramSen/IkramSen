@@ -190,12 +190,12 @@
 				    <!--li><i class="fa fa-suitcase" aria-hidden="true"></i><h2 class="timeline-title">Conferences</h2></li-->
                                     <li>
 					<i class="fa fa-file" aria-hidden="true"></i>
-						<div class="section-title"><h2 class="">License & Master's reports</h2></div>
+						<div class="section-title"><h2 class="">Bachelor's & Master's reports</h2></div>
 				    </li>
                                     <li><h3 class="line-title">
                                        <a class="home-btn active" 
 			           href="http://dspace.univ-tlemcen.dz/bitstream/112/8268/1/Creation-dune%20-application%20-android-via-Une-autre-%20application-android-(partie%20-serveur).pdf">
-		                   <i class="" aria-hidden="true">License's report</i></a>. </h3>
+		                   <i class="" aria-hidden="true">Bachelor's report</i></a>. </h3>
                                     </li>
 				    <li><h3 class="line-title">
                                        <a class="home-btn active" href="http://dspace.univ-tlemcen.dz/bitstream/112/12126/1/Developpement-dun-atelier-graphique-pour-la-generation-dapplications-mobiles-multi-plateforme.pdf">
