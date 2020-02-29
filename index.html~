@@ -91,7 +91,7 @@
                         <a class="home-btn active" href="index.html#home"><i class="fa fa-home" aria-hidden="true"></i></a>
                       </li>
 		      <li class="tab"><a href="reserch.html">RESEARCH</a></li>
-                      <li class="tab"><a href="educat.html">EDUC & EXPER</a></li>
+                      <li class="tab"><a href="educat.html">EDUCATION & EXPERIENCE</a></li>
                        <!--li class="tab"><a href="skyl.html">MY SKILLS</a></li-->
                       <li class="tab"><a href="contact.html">CONTACT</a></li>
                     </ul>
@@ -112,7 +112,7 @@
                         <a class="home-btn active" href="index.html#home"><i class="fa fa-home" aria-hidden="true"></i></a>
                       </li>
 		      <li class="tab"><a href="reserch.html">RESEARCH</a></li>
-                      <li class="tab"><a href="educat.html">EDUC & EXPER</a></li>
+                     <li class="tab"><a href="educat.html">EDUCATION & EXPERIENCE</a></li>
                        <!--li class="tab"><a href="skyl.html">MY SKILLS</a></li-->
                       <li class="tab"><a href="contact.html">CONTACT</a></li>
                       <!--li class="tab"><a href="http://tavonline.net/html/mat/default/index.html#contact"></a></li-->
@@ -131,11 +131,11 @@
                   <div class="row">
                     <section class="about-me line col-md-12 padding_30 padbot_45">
                       <div class="section-title"><h2>About Me</h2></div>
-                      <p class="top_30">Ikram SENOUSSAOUI has received here License in computer science in 2015 and in 2017, she received here 					    Ms degree in software engineering from <a class="home-btn active" href="https://www.univ-tlemcen.dz/fr"><i 					    class="" aria-hidden="true">University of Tlemcen in Algeria</i></a>. Actually, she is a Ph.D. Student on 					    embedded and real time systems and a member of the laboratory of Parallel, Embedded Architectures and High 					    Performance Computing (LAPECI) at University of Oran1, Algeria and <a class="home-btn active" 					    href="https://www.cristal.univ-lille.fr/equipes/emeraude/"><i class="" aria-hidden="true">the Embedded 					    Real-Time Adaptative system Design and Execution (Émeraude) team of the CRIStAL Lab</i></a> at <a 					    class="home-btn active" href="https://www.univ-lille.fr"><i class="" aria-hidden="true">Lille University 					    in France</i></a>.
+                      <p class="top_30">Ikram SENOUSSAOUI obtained her bachelor's degree in computer science in 2015 and in 2017,
+          she received her master's degree in software engineering from <a class="home-btn active" href="https://www.univ-tlemcen.dz/fr"><i 					    class="" aria-hidden="true">University of Tlemcen in Algeria</i></a>. Actually, she is a Ph.D. Student on 					    embedded and real time systems and a member of the laboratory of Parallel, Embedded Architectures and High 					    Performance Computing (LAPECI) at University of Oran1, Algeria and <a class="home-btn active" 					    href="https://www.cristal.univ-lille.fr/equipes/emeraude/"><i class="" aria-hidden="true">the Embedded 					    Real-Time Adaptative system Design and Execution (Émeraude) team of the CRIStAL Lab</i></a> at <a 					    class="home-btn active" href="https://www.univ-lille.fr"><i class="" aria-hidden="true">Lille University 					    in France</i></a>.
 
                         <br>
-                        <br> Here research interests are in real-time systems for heterogeneous platforms, autonomous driving systems, with 				     particular relation to related timing and safety requirements, scheduling algorithms for single and multicore 				     real-time systems.
-			
+                        <br> Her research interests are in real-time systems for heterogeneous platforms, autonomous driving systems,and  scheduling algorithms for single and multicore real-time systems.
 	              </p>
                     </section>
                   </div>
