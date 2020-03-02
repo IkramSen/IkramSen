@@ -61,7 +61,7 @@
             </div>
             <figure class="profile-image">
               <!--img src="./Mat_files/profile1.jpg" style="transform:rotate(90deg);" alt=""-->
-	      <img src="./Mat_files/informatique.jpg" style="" alt="">
+	      <img src="./Mat_files/iik.jpg" style="" alt="">
             </figure> 
             <ul class="profile-information">
               <li></li>
@@ -209,7 +209,7 @@
 			    <div class="section-title"><h2 class="">Curriculum Vitae</h2></div>
 			  </li>
                           <li><h3 class="line-title">A short CV is available 
-                              <a class="home-btn active" href="https://www.univ-tlemcen.dz/fr"><i 					    class="" aria-hidden="true">Here</i></a>. </h3>
+                              <a class="home-btn active" href="https://www.univ-lille.fr/"><i 					    class="" aria-hidden="true">Here</i></a>. </h3>
                           </li>
                           
                         </ul> 
