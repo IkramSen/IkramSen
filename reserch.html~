@@ -61,7 +61,7 @@
         </div>
         <figure class="profile-image">
            <!--img src="./Mat_files/profile1.jpg" style="transform:rotate(90deg);" alt=""-->
-	   <img src="./Mat_files/informatique.jpg" style="" alt="">
+	   <img src="./Mat_files/ik.jpg" style="" alt="">
         </figure> 
         <ul class="profile-information">
             <li></li>
@@ -100,10 +100,10 @@
                      <!--a href="mailto:ikram.senoussaouii@gmail.com" class="pull-right site-btn icon hidden-xs">Hire Me <i class="fa fa-paper-plane" aria-hidden="true"></i></a-->
                     <div class="hamburger pull-right hidden-lg hidden-md"><i class="fa fa-bars" aria-hidden="true"></i></div>
                     <div class="hidden-md social-icons pull-right"> 
-                        <a class="fb" href="http://tavonline.net/html/mat/default/index.html#"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
-                        <a class="tw" href="http://tavonline.net/html/mat/default/index.html#"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
-                        <a class="ins" href="http://tavonline.net/html/mat/default/index.html#"><i class="fa fa-instagram" aria-hidden="true"></i></a> 
-                        <a class="dr" href="http://tavonline.net/html/mat/default/index.html#"><i class="fa fa-dribbble" aria-hidden="true"></i></a> 
+                      <a class="fb" href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
+                      <a class="tw" href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
+                      <a class="ins" href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a> 
+                      <a class="dr" href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a> 
                     </div>
                 </div>
             </div>
