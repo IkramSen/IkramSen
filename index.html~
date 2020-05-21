@@ -61,7 +61,7 @@
             </div>
             <figure class="profile-image">
               <!--img src="./Mat_files/profile1.jpg" style="transform:rotate(90deg);" alt=""-->
-	      <img src="./Mat_files/informatique.jpg" style="" alt="">
+	      <img src="./Mat_files/ik.jpg" style="" alt="">
             </figure> 
             <ul class="profile-information">
               <li></li>
@@ -135,7 +135,7 @@
           she received her master's degree in software engineering from <a class="home-btn active" href="https://www.univ-tlemcen.dz/fr"><i 					    class="" aria-hidden="true">University of Tlemcen in Algeria</i></a>. Actually, she is a Ph.D. Student on 					    embedded and real time systems and a member of the laboratory of Parallel, Embedded Architectures and High 					    Performance Computing (LAPECI) at University of Oran1, Algeria and <a class="home-btn active" 					    href="https://www.cristal.univ-lille.fr/equipes/emeraude/"><i class="" aria-hidden="true">the Embedded 					    Real-Time Adaptative system Design and Execution (Émeraude) team of the CRIStAL Lab</i></a> at <a 					    class="home-btn active" href="https://www.univ-lille.fr"><i class="" aria-hidden="true">Lille University 					    in France</i></a>.
 
                         <br>
-                        <br> Her research interests are in real-time systems for heterogeneous platforms, autonomous driving systems,and  scheduling algorithms for single and multicore real-time systems.
+                        <br> Her research interests are in real-time systems for heterogeneous platforms, autonomous driving systems, and  scheduling algorithms for single and multicore real-time systems.
 	              </p>
                     </section>
                   </div>
